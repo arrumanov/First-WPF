@@ -1,0 +1,13 @@
+F:\уроки\WpfAppFlowDocument\WpfAppFlowDocument\bin\Debug\WpfAppFlowDocument.exe.config
+F:\уроки\WpfAppFlowDocument\WpfAppFlowDocument\obj\Debug\WpfAppFlowDocument.csprojResolveAssemblyReference.cache
+F:\уроки\WpfAppFlowDocument\WpfAppFlowDocument\obj\Debug\MainWindow.baml
+F:\уроки\WpfAppFlowDocument\WpfAppFlowDocument\obj\Debug\MainWindow.g.cs
+F:\уроки\WpfAppFlowDocument\WpfAppFlowDocument\obj\Debug\App.g.cs
+F:\уроки\WpfAppFlowDocument\WpfAppFlowDocument\obj\Debug\WpfAppFlowDocument_MarkupCompile.cache
+F:\уроки\WpfAppFlowDocument\WpfAppFlowDocument\obj\Debug\WpfAppFlowDocument.g.resources
+F:\уроки\WpfAppFlowDocument\WpfAppFlowDocument\obj\Debug\WpfAppFlowDocument.Properties.Resources.resources
+F:\уроки\WpfAppFlowDocument\WpfAppFlowDocument\obj\Debug\WpfAppFlowDocument.csproj.GenerateResource.Cache
+F:\уроки\WpfAppFlowDocument\WpfAppFlowDocument\bin\Debug\WpfAppFlowDocument.exe
+F:\уроки\WpfAppFlowDocument\WpfAppFlowDocument\bin\Debug\WpfAppFlowDocument.pdb
+F:\уроки\WpfAppFlowDocument\WpfAppFlowDocument\obj\Debug\WpfAppFlowDocument.exe
+F:\уроки\WpfAppFlowDocument\WpfAppFlowDocument\obj\Debug\WpfAppFlowDocument.pdb
